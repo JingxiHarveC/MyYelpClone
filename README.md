@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Did not managed to make the search function work.
+Did not manage to make the search function work.
 
 ## License
 
